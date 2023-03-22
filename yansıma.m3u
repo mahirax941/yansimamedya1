@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",YANSİNEMA TV 
+http://iptvh.it/Yansinematv
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",YANSİNEMA TV 1
+http://iptvh.it/Yansinematv1
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",YANSIMA MUZİK TV 
+http://iptvh.it/Yansimamüziktv
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",YANSIMA CLASSİC 
+http://iptvh.it/Yansimaclassictv1
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",YANSIMA CLASSİC 2
+http://iptvh.it/Yansimaclassictv2
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",TİMUR MEDYA TV 
+http://iptvh.it/Timurmedyatv
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",TİMUR MEDYA TV 1
+http://iptvh.it/Timurmedyatv1
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",TEBER BOX ON TV
+http://iptvh.it/t.on
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",TEBER BOX DEM
+http://iptvh.it/Teber_DEM
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",TEBER BOX STAR1
+http://iptvh.it/T.star1
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",TEBER BOX STAR2
+http://iptvh.it/t.star2
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",RADYO YANSIMA
+http://95.173.162.181:9912/;
+#EXTINF:0 tvg-id="ext" group-title="YANSIMA MEDYA",RADYO YANSIMA 1
+http://iptvh.it/Radyoyansima
+
+
